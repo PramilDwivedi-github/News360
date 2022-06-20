@@ -1,0 +1,6 @@
+.newsCard{
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+    box-shadow: 5px;
+}

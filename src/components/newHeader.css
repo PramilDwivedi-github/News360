@@ -1,0 +1,6 @@
+.new-header{
+    background-color: white;
+    color: black;
+    display: flex;
+    position: sticky;
+}

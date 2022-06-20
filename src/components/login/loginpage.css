@@ -1,0 +1,23 @@
+.LoginPage{
+    display: flex;
+    flex-flow: column;
+}
+.loginform{
+    display: flex;
+    flex-flow: column;
+    flex-wrap: wrap;
+    width: 60vw;
+    height: 60vh;
+    align-self: center;
+    box-shadow: 0  0 10px 10px gray;
+    margin-top: 30px;
+}
+.ele{
+    max-width: 100%;
+    align-self: center;
+    
+}
+
+/* .textinput{
+    width: 200px;
+} */

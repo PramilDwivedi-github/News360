@@ -1,0 +1,19 @@
+.RegisterPage{
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+}
+.RegisterForm{
+    display: flex;
+    flex-flow: column;
+    flex-wrap: wrap;
+    width: 60vw;
+    height: 60vh;
+    align-self: center;
+    box-shadow: 0  0 10px 10px gray;
+    margin-top: 10px;
+}
+.ele{
+    max-width: 100%;
+    align-self: center;
+}

@@ -1,0 +1,7 @@
+.MuiCard-root{
+    align-self: center;
+}
+.MuiCardMedia-img{
+    object-fit: contain;
+    width: 100%;
+}
